@@ -1,0 +1,29 @@
+# System Files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Large Media & Archives
+*.mp4
+*.mov
+*.avi
+*.m4a
+*.mp3
+*.zip
+*.tar.gz
+
+# Zoom Meeting Recordings
+2025-*/
+
+# IDE
+.vscode/
+.idea/
