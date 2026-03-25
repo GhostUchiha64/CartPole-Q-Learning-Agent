@@ -75,7 +75,6 @@ Siddartha Bandi_Final Project_Deliverables/
 ├── siddartha_bandi_final_project_q_learning_agent.py    # Main Q-Learning agent script
 ├── ReadMe.txt                                            # Original setup instructions
 ├── Siddartha Bandi Final Project Report (Q-Learning Agent).pdf   # Final report
-└── Siddartha Bandi Final Project Report (Q-Learning Agent).docx  # Report (Word)
 ```
 
 > **Note:** Video recording (`.mp4`), audio (`.m4a`), Zoom meeting folder, and `.zip` archive are excluded due to file size.
